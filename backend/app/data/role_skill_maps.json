@@ -1,0 +1,89 @@
+{
+  "roles": [
+    {
+      "id": "frontend",
+      "title": "Frontend Developer",
+      "category": "Frontend",
+      "keywords": ["frontend", "front-end", "ui", "web developer", "react developer", "javascript developer", "client-side"],
+      "core_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Git",
+        "REST APIs",
+        "Responsive Design",
+        "UI fundamentals"
+      ],
+      "recommended_actions": {
+        "React": "Build a responsive React application showcasing component reusability, state management, and API integration, and include it under Projects.",
+        "REST APIs": "Integrate asynchronous RESTful API calls with error handling and loading indicators in an existing frontend project.",
+        "Responsive Design": "Ensure projects implement mobile-first responsive design utilizing modern CSS Grid/Flexbox and media queries.",
+        "Git": "Publish your portfolio and projects to GitHub with structured commits and descriptive README documentation."
+      }
+    },
+    {
+      "id": "data",
+      "title": "Data Analyst",
+      "category": "Data",
+      "keywords": ["data", "analyst", "analytics", "business intelligence", "bi", "data analysis", "data scientist"],
+      "core_skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Statistics",
+        "Data Visualization",
+        "Excel"
+      ],
+      "recommended_actions": {
+        "SQL": "Write complex SQL queries involving aggregations, window functions, and multi-table joins on real-world datasets and document them.",
+        "Pandas": "Perform end-to-end exploratory data analysis (EDA) and data cleaning on public datasets using Python and Pandas.",
+        "Data Visualization": "Create an interactive dashboard using Power BI/Tableau or Python visualization libraries (Matplotlib/Seaborn) highlighting business insights.",
+        "Excel": "Highlight hands-on experience with advanced Excel functions such as VLOOKUP/XLOOKUP, pivot tables, and data modeling."
+      }
+    },
+    {
+      "id": "qa",
+      "title": "QA Engineer",
+      "category": "QA",
+      "keywords": ["qa", "quality assurance", "test", "testing", "automation", "sdet", "test engineer", "tester"],
+      "core_skills": [
+        "Manual Testing",
+        "Test Cases",
+        "Selenium",
+        "API Testing",
+        "Postman",
+        "SQL",
+        "Bug Reporting"
+      ],
+      "recommended_actions": {
+        "Selenium": "Build an automated end-to-end browser test suite using Selenium WebDriver for key user workflows (login, checkout).",
+        "Test Cases": "Document a formal test matrix including functional, boundary, regression, and negative test cases for a sample web application.",
+        "Postman": "Create automated API test collections with response assertion scripts and environment variables in Postman.",
+        "Bug Reporting": "Demonstrate understanding of bug lifecycles by writing detailed defect reports with reproducible steps and severity levels."
+      }
+    },
+    {
+      "id": "support",
+      "title": "Technical Support",
+      "category": "Support",
+      "keywords": ["support", "tech support", "technical support", "it support", "helpdesk", "troubleshooting", "systems engineer"],
+      "core_skills": [
+        "Troubleshooting",
+        "Networking",
+        "Linux",
+        "SQL",
+        "Communication",
+        "Problem Solving",
+        "Ticketing Systems"
+      ],
+      "recommended_actions": {
+        "Linux": "Practice essential Linux CLI commands for process management, log inspection (grep/tail), and file permissions.",
+        "Networking": "Familiarize yourself with core networking protocols (TCP/IP, DNS, DHCP, HTTP/HTTPS) and diagnostic tools (ping, traceroute).",
+        "Ticketing Systems": "Document experience with incident management workflows, SLA tracking, and structured customer communication in ticketing systems.",
+        "Troubleshooting": "Frame past support/technical problem resolutions using a structured hypothesis-testing methodology in resume bullets."
+      }
+    }
+  ]
+}
